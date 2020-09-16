@@ -1,4 +1,4 @@
-# WASM Calculator
+# WASM Calculator 🍪
 
 ## Table of Contents
 
