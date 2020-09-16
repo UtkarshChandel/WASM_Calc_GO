@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b034ee0c-b69c-46a2-b091-74b948a4da41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1hb7oJf0aXSukDzHmBfSeBB2w40" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build wasm_go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="wasm_go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build wasm_go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Build_Tags_&amp;_Vendoring" timestamp="1600268388878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Build_Tags_&amp;_Vendoring/0.0.1536.824@0.0.1536.824" timestamp="1600268388878" />
+    <state x="361" y="71" key="#GOROOT" timestamp="1600268246769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#GOROOT/0.0.1536.824@0.0.1536.824" timestamp="1600268246769" />
+    <state x="361" y="71" key="#Go_Modules_(vgo)" timestamp="1600268297938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Go_Modules_(vgo)/0.0.1536.824@0.0.1536.824" timestamp="1600268297938" />
+    <state x="493" y="32" key="#go_build_wasm_go" timestamp="1600268405859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="493" y="32" key="#go_build_wasm_go/0.0.1536.824@0.0.1536.824" timestamp="1600268405859" />
+    <state x="300" y="55" key="SettingsEditor" timestamp="1600268277581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="300" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600268277581" />
+  </component>
+</project>
