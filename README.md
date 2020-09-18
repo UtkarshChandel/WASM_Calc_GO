@@ -1,4 +1,6 @@
-# WASM Calculator 🍪
+<img src="https://miro.medium.com/max/4000/1*mzE0j8x2FurAB0hkwENFlw.png" alt="WASM.go" width="100" height="100" />
+
+# WASM Calculator 🧮
 
 ## Table of Contents
 
